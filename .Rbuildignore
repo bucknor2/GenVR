@@ -1,0 +1,10 @@
+^.*\.Rproj$
+\.travis\.yml
+^\.Rproj\.user$
+.gitignore
+.DS_Store
+.git
+README.md
+README.rmd
+README_files
+^assets$.
